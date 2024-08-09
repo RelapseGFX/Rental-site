@@ -410,6 +410,11 @@ article a:hover {
 	text-decoration: none;
 }
 
+.article-image {
+	width: 100%;
+	object-fit: cover;
+}
+
 @media (min-width: 45em) {
 
 	.hero > div {

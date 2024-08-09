@@ -2,14 +2,17 @@
 title: Alleia Watters Creek
 location: 1165 Montgomery Blvd, Allen, TX 75013
 price: $1,200/month
-bedrooms: 2
-bathrooms: 1.5
-squareFeet: 1,100
+bedrooms: 2 Beds
+bathrooms: 1.5 Baths
+squareFeet: 1,100 ft²
+terrace: 1 Terra
+carParking: 2
+floor: 1
 availableFrom: 2024-09-01
-tags: ["apartment", "lake view", "featured"]
-image: /assets/properties/lakeshore-apt.jpg
+tags: ["post", "featured"]
+image: /assets/rentals/alleia-watters-creek.jpg
 imageAlt: View of the living room with large windows overlooking the lake
-description: A beautiful 2-bedroom apartment with stunning views of Lake Erie, perfect for small families or professionals.
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ac turpis eu est molestie pharetra. Curabitur accumsan varius lectus et ultricies. Aliquam maximus metus enim, quis finibus lacus consequat et. Nulla vitae diam vel ante varius laoreet aliquam a dolor. Cras semper erat vitae elit faucibus finibus. Phasellus consequat, diam at porttitor dignissim, ante metus feugiat neque, eget accumsan tellus massa sed est. Aenean eget condimentum purus. Curabitur imperdiet arcu elit, id malesuada justo aliquam non. Curabitur ac nisi pretium, dictum dui non, dapibus elit. Donec molestie auctor tortor, quis interdum massa consectetur fermentum. Phasellus arcu velit, dapibus eu augue rhoncus, vehicula vulputate odio. Mauris a efficitur risus. Sed molestie ullamcorper suscipit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;
 amenities: 
   - "In-unit laundry"
   - "Covered parking"
